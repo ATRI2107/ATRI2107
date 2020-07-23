@@ -1,8 +1,6 @@
 ### Hola I'm Atri Chaturvedi 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working in <a href="https://github.com/smoke-trees"> Smoke Trees </a> as web Developer
 - 🌱 I’m a Java as well as a Competitive Programmer.
 - 🤔 I’m looking for oppourtunities in SDE role.

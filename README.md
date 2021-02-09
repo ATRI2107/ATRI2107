@@ -1,7 +1,7 @@
 ### Hola I'm Atri Chaturvedi 👋
 
 
-- 🔭 I am currently working in <a href="https://github.com/smoke-trees"> Smoke Trees </a> as Web Developer
+- 🔭 I am currently working in <a> American Express </a> as an Analyst Intern
 - 🌱 I am a Java programmer as well as a Competitive Programmer.
 
 - 📫 <b>How to reach me</b>
